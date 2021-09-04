@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Luis Fernando and I'm a full stack software developer <img src="https://pastepixel.com/image/FKMqvv6SwNxtPuxQN4Zz.png" alt=""/>
+Work in progress profile page.
+
+- GitHub: [![@lfmnovaes](https://img.shields.io/github/followers/lfmnovaes?color=lightgray&style=plastic&labelColor=blue)](https://github.com/lfmnovaes)
+- LinkedIn: [![@lfmnovaes](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/lfmnovaes/)
+- Twitter: [![@lfmnovaes](https://img.shields.io/twitter/follow/lfmnovaes?style=plastic&labelColor=blue)](https://www.twitter.com/lfmnovaes/)
 
 <!--
 **lfmnovaes/lfmnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
