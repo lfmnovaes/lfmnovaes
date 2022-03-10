@@ -3,12 +3,13 @@
 <p align="center">
   <samp>
     Hi, I'm Luis Fernando! 👋 <br>
-    🔥 Enthusiast Full Stack Developer 🔥 <br>
-    ✨ Favorite Tech: HTML/CSS, JavaScript, React, Python ... ✨ <br>
-    💪 I'm currently improving my code and communication skills 💪 <br>
-    🎨 Portfolio: https://lfmnovaes.github.io/portfolio/ 🎨 <br>
-    💼 Socials: LinkedIn: https://www.linkedin.com/in/lfmnovaes/ <br>
-                Twitter: https://www.twitter.com/lfmnovaes/
+    🔥 Full Stack Web Developer, learning new things every day 📖 <br>
+    ✨ Favorite Techs: JavaScript, React, NextJS, Ruby, RoR, TypeScript ... ✨ <br>
+    💪 I'm currently improving my portfolio and my communication skills 📢 <br>
+    📧 lfmnovaes@gmail.com <br>
+    🎨 Portfolio: https://lfmnovaes.github.io/portfolio/ <br>
+    💼 LinkedIn: https://www.linkedin.com/in/lfmnovaes/ <br>
+    🐦 Twitter: https://www.twitter.com/lfmnovaes/
   </samp>
 </p>
 
