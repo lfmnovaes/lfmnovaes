@@ -7,7 +7,7 @@
     ✨ Favorite Techs: JavaScript, React, NextJS, Ruby, RoR, TypeScript ... ✨ <br>
     💪 I'm currently improving my portfolio and my communication skills 📢 <br>
     📧 lfmnovaes@gmail.com <br>
-    🎨 Portfolio: https://new-portfolio-lfmn.vercel.app/ <br>
+    🎨 Portfolio: https://new-portfolio-lfmn.vercel.app/ (with old projects) new one is in WIP <br>
     💼 LinkedIn: https://www.linkedin.com/in/lfmnovaes/ <br>
     🐦 Twitter: https://www.twitter.com/lfmnovaes/
   </samp>
