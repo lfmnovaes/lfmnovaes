@@ -4,8 +4,8 @@
   <samp>
     Hi, I'm Luis Fernando! 👋 <br>
     🔥 Full Stack Web Developer, learning new things every day 📖 <br>
-    ✨ Favorite Techs: JavaScript, React, NextJS, Ruby, RoR, TypeScript ... ✨ <br>
-    💪 I'm currently improving my portfolio and my communication skills 📢 <br>
+    ✨ Favorite Techs: JavaScript, React, NextJS, Ruby, RoR, TypeScript, Python ... ✨ <br>
+    💪 I'm currently learning new libraries/frameworks from the JavaScript world 🌎 <br>
     📧 lfmnovaes@gmail.com <br>
     🎨 Portfolio: https://new-portfolio-lfmn.vercel.app/ (with old projects) new one is in WIP <br>
     💼 LinkedIn: https://www.linkedin.com/in/lfmnovaes/ <br>
